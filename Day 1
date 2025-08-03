@@ -1,47 +1,50 @@
-### 🔐 Day 1 of #30DaysOfCybersecurity
+🔐 Day 1 of #30DaysOfCybersecurity
 Today, I kicked off my cybersecurity journey by diving into the Pre-Security learning path on TryHackMe — a beginner-friendly track designed to build a strong foundation in cybersecurity concepts.
 
-*🔍 What I Learned:*
+🔍 What I Learned:
 
-*🚩 Offensive Security*
+
+🚩 Offensive Security
 Offensive security focuses on simulating real-world attacks to uncover vulnerabilities before malicious actors can exploit them.
 I explored how Red Teams and penetration testers perform tasks like:
-Breaking into systems
-Exploiting software bugs
-Identifying loopholes in applications
+- Breaking into systems
+- Exploiting software bugs
+- Identifying loopholes in applications
 
 In the lab section, I used Virtual Machines to simulate a secure environment and tested my skills by attacking a mock bank application called Fakebank — a safe way to experience hands-on ethical hacking.
 
-*🛡️ Defensive Security*
+
+🛡️ Defensive Security
 On the flip side, I also learned about Defensive Security, which involves:
-Preventing and detecting intrusions
-Responding effectively to security incidents
+- Preventing and detecting intrusions
+- Responding effectively to security incidents
 
 Key defensive tasks include:
-Promoting user cybersecurity awareness
-Asset documentation and management
-System updates and patching
-Setting up firewalls, IDS/IPS, and monitoring systems
+- Promoting user cybersecurity awareness
+- Asset documentation and management
+- System updates and patching
+- Setting up firewalls, IDS/IPS, and monitoring systems
 
-*🔐 Deep Dive into Defensive Subfields:*
 
-*🏢 Security Operations Center (SOC)*
+🔐 Deep Dive into Defensive Subfields:
+
+🏢 Security Operations Center (SOC)
 A SOC is the heart of an organization's cyber defense — monitoring networks and systems for malicious events like vulnerabilities, policy violations, and unauthorized activities.
 I learned how SOCs use SIEM tools to gather logs and generate alerts for potential threats, giving analysts a unified view of the security posture.
 
-*🧠 Threat Intelligence*
+🧠 Threat Intelligence
 Threat intelligence involves collecting information on potential adversaries to build a threat-informed defense. It helps organizations anticipate attacks and stay a step ahead of cyber threats.
 
-*🕵️‍♂️ Digital Forensics and Incident Response (DFIR)*
+🕵️‍♂️ Digital Forensics and Incident Response (DFIR)
 Digital Forensics investigates the aftermath of an attack — tracing data breaches, IP theft, and unauthorized access through logs, memory, and file analysis.
 
 Incident Response follows a structured 4-phase process:
-Preparation
-Detection & Analysis
-Containment, Eradication & Recovery
-Post-Incident Review
+- Preparation
+- Detection & Analysis
+- Containment, Eradication & Recovery
+- Post-Incident Review
 
-*🦠 Malware Analysis*
+🦠 Malware Analysis
 I explored two key types of malware analysis:
  Static Analysis: Examining malware code without execution
  Dynamic Analysis: Running malware in a sandbox to monitor its behavior
