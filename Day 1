@@ -3,7 +3,6 @@ Today, I kicked off my cybersecurity journey by diving into the Pre-Security lea
 
 🔍 What I Learned:
 
-
 🚩 Offensive Security
 Offensive security focuses on simulating real-world attacks to uncover vulnerabilities before malicious actors can exploit them.
 I explored how Red Teams and penetration testers perform tasks like:
@@ -12,7 +11,6 @@ I explored how Red Teams and penetration testers perform tasks like:
 - Identifying loopholes in applications
 
 In the lab section, I used Virtual Machines to simulate a secure environment and tested my skills by attacking a mock bank application called Fakebank — a safe way to experience hands-on ethical hacking.
-
 
 🛡️ Defensive Security
 On the flip side, I also learned about Defensive Security, which involves:
@@ -24,7 +22,6 @@ Key defensive tasks include:
 - Asset documentation and management
 - System updates and patching
 - Setting up firewalls, IDS/IPS, and monitoring systems
-
 
 🔐 Deep Dive into Defensive Subfields:
 
