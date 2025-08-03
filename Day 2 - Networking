@@ -3,7 +3,6 @@ Today, I explored one of the most fundamental concepts in cybersecurity — Netw
 
 🧠 Key Concepts Covered:
 
-
 💻 What is Networking?
 Networking refers to the connection of devices — from just two to billions — allowing them to communicate and share data.
 These devices include everything from laptops and smartphones to traffic lights, security cameras, and even smart farming tools!
@@ -39,7 +38,6 @@ I also explored the use of Ping, one of the most fundamental network tools.
 Ping works by sending ICMP (Internet Control Message Protocol) packets to check whether a connection between two devices exists and how reliable it is.
 
 🛠️ It’s as simple as running:
-
     ping [IP address or URL]
 
 In the lab, I pinged 8.8.8.8 (Google’s DNS server) to check connectivity — and revealed a hidden flag 🎯.
